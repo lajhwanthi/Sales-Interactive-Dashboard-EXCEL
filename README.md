@@ -1,4 +1,4 @@
-# Sales-Interactive-Dachboard-EXCEL
+# Sales-Interactive-Dashboard-EXCEL
 ### Project Overview
 
 This project involved conducting an extensive analysis of sales data for two leading electronic companies, utilizing advanced data analysis techniques to extract actionable insights and drive informed decision-making. The primary focus was on harnessing the power of Microsoft Excel's pivot tables to develop an interactive and visually engaging dashboard that encapsulates key performance indicators and trends within the electronic retail sector.
